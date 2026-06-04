@@ -1,16 +1,16 @@
 # calculadora-javascript
 CSS e JavaScript
-# 1. Inicializar o git (se ainda não fez)
+# 1. Inicializar
 git init
 
-# 2. Adicionar todos os arquivos
+# 2. Arquivos
 git add .
 
-# 3. Fazer o primeiro commit
+# 3. Commit
 git commit -m "Adiciona calculadora completa"
 
-# 4. Conectar com o GitHub (substitua SEU_USUARIO)
+# 4. Conectar
 git remote add origin https://github.com/omarbenjamim149-svg/calculadora-javascript.git
 
-# 5. Enviar para o GitHub
+# 5. Subir
 git push -u origin main
